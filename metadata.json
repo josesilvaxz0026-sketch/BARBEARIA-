@@ -1,0 +1,6 @@
+{
+  "name": "Black Styllus Barbearia",
+  "description": "Sistema completo de agendamento online automatizado, controle de vagas, horários e gestão de estoque para a Barbearia Black Styllus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
